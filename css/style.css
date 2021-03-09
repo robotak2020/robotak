@@ -55,6 +55,10 @@ html {
 .container-fluid.py-5.about {
     background: #ffd446;
 }
+span.pr-2.cpt{
+    background: #ffd446;
+
+}
 article,
 aside,
 figcaption,
