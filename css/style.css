@@ -52,6 +52,7 @@ html {
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
 .container-fluid.py-5.about {
     background: #ffd446;
 }
@@ -72,7 +73,7 @@ section {
     display: block;
 }
 .container-fluid.position-relative {
-    background: #f6cc40;
+    background: #ffd446;
 }
 
 body {
@@ -90,7 +91,7 @@ body {
   width: 0px;
 }
 .container-fluid.position-relative {
-    background: #f6cc40;
+    background: #ffd446;
 }
 [tabindex="-1"]:focus:not(:focus-visible) {
     outline: 0 !important;
@@ -6710,7 +6711,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: #f6cc40 !important;
+    background-color: #ffd446 !important;
 }
 
 a.bg-primary:hover,
