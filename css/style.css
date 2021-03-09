@@ -9884,6 +9884,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
+     margin-left: 20px;
     color: #17a2b8 !important;
 }
 
